@@ -6,7 +6,7 @@ namespace BasicConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Ritesh");
+            Console.WriteLine("Hello World Ritesh");
         }
     }
 }
